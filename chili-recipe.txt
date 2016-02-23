@@ -1,5 +1,6 @@
 Ingredients:
- - 1 potato spice	
+ - 1 potato spice
+ - another potato	
  - 2 pounds ground beef
  - 2 cloves garlic, chopped
  - One 8-ounce can tomato sauce
